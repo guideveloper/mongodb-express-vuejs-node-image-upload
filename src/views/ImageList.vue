@@ -84,7 +84,7 @@ export default {
 		},
 		uploadImages () {
 			this.$router.push({
-				name: 'Dashboard'
+				name: 'UploadImages'
 			})
 		}
 	}
