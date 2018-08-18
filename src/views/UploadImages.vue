@@ -198,6 +198,7 @@ export default {
 		height: 250px;
 		background: #f2f2f3;
 		background-size: cover;
+		background-position: 50% 50%;
 	}
 
 	.remove-button {
