@@ -137,7 +137,6 @@ export default {
 		},
 		selectImage () {
 			this.$refs.uploadInput.click()
-			this.loading = true
 		},
 		updateUploadButton (e) {
 			const fileName = e.target.value.split('\\').pop()
@@ -160,6 +159,7 @@ export default {
 					setTimeout(() => {
 						this.loading = false
 						this.getImages()
+						this.$refs.uploadInput.value = undefined
 					}, 900)
 				})
 				.catch(e => {

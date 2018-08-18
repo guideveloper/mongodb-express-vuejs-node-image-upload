@@ -1,7 +1,7 @@
 <template>
 	<b-navbar toggleable="md" type="light" variant="warning" stick="true">
 		<b-navbar-toggle v-if="user.loggedIn" target="nav_collapse"></b-navbar-toggle>
-		<b-navbar-brand href="#/">MEVN Boilerplate</b-navbar-brand>
+		<b-navbar-brand href="#/"><img src="/static/img/mevn-logo.png" style="width: 50px;"> MEVN Boilerplate</b-navbar-brand>
 		
 		<b-collapse is-nav id="nav_collapse">
 			<b-navbar-nav v-if="user.loggedIn" class="ml-auto">
