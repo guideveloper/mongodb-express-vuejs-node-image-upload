@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'GothamRounded-Medium';
+  src: url('GothamRounded-Medium.eot?#iefix') format('embedded-opentype'),  url('GothamRounded-Medium.otf')  format('opentype'),
+	     url('GothamRounded-Medium.woff') format('woff'), url('GothamRounded-Medium.ttf')  format('truetype'), url('GothamRounded-Medium.svg#GothamRounded-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
