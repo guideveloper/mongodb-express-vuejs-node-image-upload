@@ -15,14 +15,19 @@ I needed to upload images using VueJs Node Express to a MongoDB and couldnt find
 npm install
 ```
 
-4. Run frontend
+4. Make sure you have mongodb install and running
+```
+https://www.mongodb.com/
+```
+
+5. Run frontend
 ```
 npm run dev
 ```
 
-5. Run server
+6. Run server
 ```
 npm start
 ```
 
-6. Open `http://localhost:8080`
+7. Open `http://localhost:8080`
