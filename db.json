@@ -1,0 +1,34 @@
+{
+    "zoopla": [
+        {
+            "name": "Product One",
+            "url": "http://www.zoopla.co.uk"
+        },
+        {
+            "name": "Product Two",
+            "url": "http://www.zoopla.co.uk"
+        },
+        {
+            "name": "Product Three",
+            "url": "http://www.zoopla.co.uk"
+        },
+        {
+            "name": "Product Three",
+            "url": "http://www.zoopla.co.uk"
+        },
+        {
+            "name": "Product Three",
+            "url": "http://www.zoopla.co.uk"
+        }
+    ],
+    "autotrader": [
+        {
+            "name": "Product One",
+            "url": "http://www.zoopla.co.uk"
+        },
+        {
+            "name": "Product Two",
+            "url": "http://www.zoopla.co.uk"
+        }
+    ]
+}
